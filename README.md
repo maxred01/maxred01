@@ -21,10 +21,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=plastic&logo=Postman&logoColor=47C5FB)
 
 
-### :fire: My Stats 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=maxred01&theme=dark)](https://git.io/streak-stats)
-
 ## :bar_chart:Git stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxred01&theme=tokyonight)
